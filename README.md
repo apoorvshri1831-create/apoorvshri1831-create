@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Apoorv Shri — a passionate Data Analyst with a strong foundation in Python, statistics, and data-driven decision making. I love working on real-world datasets to extract insights, test hypotheses, and forecast future trends using statistical and probability-based models.
+I'm Apoorv Shrivastava  — a passionate Data Analyst with a strong foundation in Python, statistics, and data-driven decision making. I love working on real-world datasets to extract insights, test hypotheses, and forecast future trends using statistical and probability-based models.
 
 ### 🔭 I’m currently working on:
 - Data analysis and visualization projects using Python (pandas, matplotlib, seaborn)
@@ -28,7 +28,7 @@ I'm Apoorv Shri — a passionate Data Analyst with a strong foundation in Python
 - Probability-based forecasting and predictions
 
 ### 📫 How to reach me:
-- 📧 Email: [your-email@example.com]
+- 📧 Email: apoorv.shri1831@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/apoorv-shrivastava-214aa72b1
 
 ### 😄 Pronouns: 
